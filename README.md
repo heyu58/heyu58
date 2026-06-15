@@ -1,7 +1,5 @@
 # Hi there 👋 
 
----
-
 ## 🔧 Skills & Expertise
 - **Languages**: Python ❤️❤️❤️ | CUDA ❤️❤️ | LaTeX 📜  
 - **Tools**: Git | NumPy/Pandas | Pytorch | Linux
@@ -10,11 +8,12 @@
 ---
 
 ## 🎓 Education  
-**Sun-Yat sen University **  
+
+**Sun-Yat sen University (QS rank 300)**  
 - School of Mathematics, majoring in Statistics 
 - 2021 – 2025
 
-**Sun-Yat sen University **  
+**Sun-Yat sen University**  
 - School of Mathematics, Applied Statistics & Data Science
 - 2025 - now
 
